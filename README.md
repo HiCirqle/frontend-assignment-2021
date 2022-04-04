@@ -31,7 +31,7 @@ This component will
 This component is based on something we already have in the UI, as such please base your implementation of some existing screenshots we have included.
 Using the attached shots, and the attached sample data JSON. Please create this new component & display it in a grid on a page, rendering the sample JSON.
 
-Please submit your assignment in a zip via email to us & include a small description of what you did and why. We will go into more detail in your assigment in a follow up interview.
+Please submit your assignment in a zip via email to us, or via a Github link & include a small description of what you did and why. We will go into more detail in your assigment in a follow up interview.
 
 We will award extra points if you can demonstrate one or more of the following abilities
 
@@ -42,4 +42,4 @@ We will award extra points if you can demonstrate one or more of the following a
 - Reusable code blocks
 
 You are free to use any libraries on top you would like, excluding UI libraries. For the component & page layouts please use pure CSS.
-Good luck!
+Good luck and thankyou!
